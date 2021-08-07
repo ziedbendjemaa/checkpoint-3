@@ -1,0 +1,51 @@
+.myimage {
+    width: 500px;
+    height: 500px;
+}
+h1{
+color: #c79434;
+font-size: large;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-weight:boldS;
+}
+p{
+    color: #1b5264;
+    font-size:medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+table{
+    background-color: #515e7b;
+    
+}
+th{
+    color: #7ee7be;
+}
+td{
+    color: #f3af06;
+}
+li{
+    display:contents;
+
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    background-color: #e7f5ff;
+}
+label{
+    color:rgb(109, 41, 25);
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+input{
+    background-color: #fff9db;
+}
+button{
+    background-color: #FDE066;
+}
+body{
+    background-image: url(https://previews.123rf.com/images/dodes11/dodes111505/dodes11150500038/39892732-vecteur-de-fond-abstrait-illustration-page-web-moderne-fond-fleuri-fond-mod%C3%A8les-de-conception-.jpg);
+
+}
